@@ -1,0 +1,22 @@
+
+html{
+  font-size: 50px;
+}
+
+
+.header {
+  background-color: black;
+  color:white;
+}
+
+.jumbotron {
+  background-image: url("../../resources/images/moto.jpg");
+  background-size: cover;
+  height:25rem;
+}
+
+
+.products {
+
+
+}
